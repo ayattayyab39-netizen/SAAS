@@ -1,0 +1,47 @@
+{
+  "name": "ai-saas-template",
+  "version": "1.0.0",
+  "description": "Premium AI SaaS Template with React Router and modern features",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "framer-motion": "^10.16.4",
+    "lottie-react": "^2.4.0",
+    "recharts": "^2.8.0",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1",
+    "papaparse": "^5.4.1",
+    "react-hook-form": "^7.45.4",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "react",
+    "saas",
+    "ai",
+    "template",
+    "dashboard",
+    "responsive"
+  ],
+  "author": "AI SaaS Template",
+  "license": "MIT"
+}
+
